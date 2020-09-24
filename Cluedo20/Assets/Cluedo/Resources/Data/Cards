@@ -1,0 +1,28 @@
+{ "Cards":
+	[
+		{"id":"1","name":"Miss Scarlett","type":"1"},
+		{"id":"2","name":"Mrs.White","type":"1"},
+		{"id":"3","name":"Mrs.Peacock","type":"1"},
+		{"id":"4","name":"Professor Plum","type":"1"},
+		{"id":"5","name":"Colonel Mustard","type":"1"},
+		{"id":"6","name":"Mr.Green","type":"1"},
+		
+		{"id":"7","name":"Study","type":"2"},
+		{"id":"8","name":"Kitchen","type":"2"},
+		{"id":"9","name":"Hall","type":"2"},
+		{"id":"10","name":"Conservatory","type":"2"},
+		{"id":"11","name":"Lounge","type":"2"},
+		{"id":"12","name":"Ballroom","type":"2"},
+		{"id":"13","name":"Dining room","type":"2"},
+		{"id":"14","name":"Library","type":"2"},
+		{"id":"15","name":"Billiard room","type":"2"},
+		
+		{"id":"16","name":"Wrench","type":"0"},
+		{"id":"17","name":"Candlestick","type":"0"},
+		{"id":"18","name":"Lead pipe","type":"0"},
+		{"id":"19","name":"Rope","type":"0"},
+		{"id":"20","name":"Revolver","type":"0"},
+		{"id":"21","name":"Knife","type":"0"}
+		
+	] 
+}
